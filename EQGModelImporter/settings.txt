@@ -1,0 +1,5 @@
+---------------------------------
+-- EQG Model Importer Settings --
+---------------------------------
+
+s3dfolder = "D:\\everquest_rof2"
